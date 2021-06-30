@@ -2,10 +2,10 @@
 	"name" : "super1t/huawei-sdk-php-obs",
 	"description" : "OBS PHP SDK",
 	"license":"Apache-2.0",
-	"version":"3.20.9",
+	"version":"3.20.10",
 	"require" : {
 		"php" : ">=5.6.0",
-		"guzzlehttp/guzzle" : "^6.3.0",
+		"guzzlehttp/guzzle" : "^7.0.1",
 		"guzzlehttp/psr7" : "^1.4.2",
 		"guzzlehttp/promises" : "^1.3.1",
 		"psr/http-message" : "^1.0.1",
