@@ -2,7 +2,7 @@
 	"name" : "super1t/huaweicloud-sdk-php-obs",
 	"description" : "OBS PHP SDK",
 	"license":"Apache-2.0",
-	"version":"3.20.6",
+	"version":"3.20.7",
 	"require" : {
 		"php" : ">=5.6.0",
 		"guzzlehttp/guzzle" : "^6.3.0",
